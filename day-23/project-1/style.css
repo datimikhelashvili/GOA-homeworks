@@ -1,0 +1,13 @@
+body {
+    background: linear-gradient(120deg , gray , rgb(123, 123, 123));
+}
+#id {
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    text-shadow: 5px 5px 5px red;
+    text-transform: capitalize
+}
+.class {
+    text-shadow: 5px 5px 5px blue;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}

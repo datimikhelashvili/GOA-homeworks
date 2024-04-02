@@ -1,0 +1,7 @@
+body {
+    background: linear-gradient(138deg, #FF0101 4.45%, rgba(245, 32, 13, 0.96) 23.57%, rgba(245, 120, 23, 0.81) 100.65%, rgba(216, 220, 17, 0.53) 101.55%, rgba(255, 1, 1, 0.00) 101.66%, rgba(247, 232, 0, 0.57) 101.66%, rgba(210, 37, 8, 0.92) 101.66%);
+}
+.history {
+    text-align: center;
+    text-decoration: underline;
+}

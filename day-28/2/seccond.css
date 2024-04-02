@@ -1,0 +1,35 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+th, td {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+}
+
+th {
+    background-color: #4CAF50;
+    color: white;
+}
+
+.green {
+    background-color: #80ff80;
+}
+
+.red {
+    background-color: #ff8080;
+}
+
+.blue {
+    background-color: #8080ff;
+}
+
+.purple {
+    background-color: #ff80ff;
+}

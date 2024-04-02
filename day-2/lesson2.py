@@ -1,0 +1,10 @@
+dati = 11
+nona = 41
+murtazi = 52
+lika = 22
+tako = 18
+print(dati + 5)
+print(nona + 5)
+print(murtazi + 5)
+print(lika + 5)
+print(tako + 5)

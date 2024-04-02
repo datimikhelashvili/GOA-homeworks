@@ -1,0 +1,27 @@
+#first{
+    background-color: black;
+    color: snow;
+}
+#seccond{
+    background-color: blue;
+    color: snow;
+}
+#third{
+    background-color:green ;
+    color: snow;
+}
+#fourth{
+    background-color:yellow ;
+    color: snow;
+}
+#fifth{
+    background-color: red;
+    color: snow;
+}
+#six{
+    background-color: lightblue;
+    color: snow;
+}
+table{
+    border: 2px solid black;
+}

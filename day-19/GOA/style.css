@@ -1,0 +1,23 @@
+body {
+    background: linear-gradient(green,lime);
+}
+#About {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: blue;
+}
+.info {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: red;
+}
+#img {
+    border-radius: 20px;
+    width: 500px;
+}
+.button {
+    border-radius: 5px;
+    cursor: pointer;
+}
+.button:hover{
+    scale: 1.1;
+    transition: 1.3s;
+}
